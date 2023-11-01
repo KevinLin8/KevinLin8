@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F70C0C&background=FF000000&center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&repeat=%E7%9C%9F%E7%9A%84&random=%E9%94%99%E8%AF%AF%E7%9A%84&width=435&lines=Thank+you+Javascript)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70909&center=false+%E9%94%99%E8%AF%AF%E7%9A%84%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=false+%E9%94%99%E8%AF%AF%E7%9A%84%E9%94%99%E8%AF%AF%E7%9A%84&repeat=true+%E7%9C%9F%E7%9A%84%E7%9C%9F%E7%9A%84&random=false+%E9%94%99%E8%AF%AF%E7%9A%84%E9%94%99%E8%AF%AF%E7%9A%84&width=435&lines=Thank+you+Javascript)](https://git.io/typing-svg)
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinLin8&show_icons=true&theme=tokyonight)
 <br>
