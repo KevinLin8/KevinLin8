@@ -29,6 +29,7 @@
 ---
 
 ### My Latest Blog posts:
+- [AI人工智能大模型](http://localhost:4000/2023/11/09/chatwhiz/)
 - [时间密码](https://kevinlin8.github.io/2023/10/30/time-password/)
 - [查看更多](https://kevinlin8.github.io)
 
